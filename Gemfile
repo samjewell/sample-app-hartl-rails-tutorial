@@ -12,7 +12,7 @@ gem 'jbuilder',             '2.2.3'
 gem 'pry-rails'
 
 group :doc do
-  gem 'sdoc',                 '0.4.0'
+  gem 'sdoc',                 '0.4.1'
 end
 
 group :development, :test do
