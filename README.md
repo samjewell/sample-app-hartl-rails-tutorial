@@ -9,4 +9,3 @@ by [Michael Hartl](http://www.michaelhartl.com/).
 2nd commit change
 Now attempting to use CircleCI for automated testing of this repo
 Try once more to trigger a CircleCI build
-3rd one
